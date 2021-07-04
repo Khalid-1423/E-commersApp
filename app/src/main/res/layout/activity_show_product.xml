@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ShowProductActivity">
+
+
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical">
+
+         <ImageView
+             android:id="@+id/price1"
+             android:layout_width="match_parent"
+             android:layout_height="250dp"
+             android:src="@drawable/airpod"
+             />
+
+         <TextView
+             android:layout_marginTop="20sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Iphone 11 Pro Max"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <TextView
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Price : 140000 Tk"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+
+         <ImageView
+             android:id="@+id/price2"
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="250dp"
+             android:src="@drawable/applewatch"
+             />
+
+         <TextView
+             android:layout_marginTop="20sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Iphone 11 Pro Max"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <TextView
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Price : 140000 Tk"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <ImageView
+             android:id="@+id/price3"
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="250dp"
+             android:src="@drawable/asus_rog"
+             />
+
+         <TextView
+             android:layout_marginTop="20sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Iphone 11 Pro Max"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <TextView
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Price : 140000 Tk"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <ImageView
+             android:id="@+id/price4"
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="250dp"
+             android:src="@drawable/football"
+             />
+
+         <TextView
+             android:layout_marginTop="20sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Iphone 11 Pro Max"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <TextView
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Price : 140000 Tk"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+
+         <ImageView
+             android:id="@+id/price5"
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="250dp"
+             android:src="@drawable/gamingmouse"
+             />
+
+         <TextView
+             android:layout_marginTop="20sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Iphone 11 Pro Max"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <TextView
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Price : 140000 Tk"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <ImageView
+             android:id="@+id/price6"
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="250dp"
+             android:src="@drawable/gamingspeaker"
+             />
+
+         <TextView
+             android:layout_marginTop="20sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Iphone 11 Pro Max"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <TextView
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Price : 140000 Tk"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <ImageView
+             android:id="@+id/price7"
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="250dp"
+             android:src="@drawable/iphone"
+             />
+
+         <TextView
+             android:layout_marginTop="20sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Iphone 11 Pro Max"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <TextView
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Price : 140000 Tk"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <ImageView
+             android:id="@+id/price8"
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="250dp"
+             android:src="@drawable/k20pro"
+             />
+
+         <TextView
+             android:layout_marginTop="20sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Iphone 11 Pro Max"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <TextView
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Price : 140000 Tk"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <ImageView
+             android:id="@+id/price9"
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="250dp"
+             android:src="@drawable/macbookpro"
+             />
+
+         <TextView
+             android:layout_marginTop="20sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Iphone 11 Pro Max"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <TextView
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Price : 140000 Tk"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <ImageView
+             android:id="@+id/price10"
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="250dp"
+             android:src="@drawable/smart_watch"
+             />
+
+         <TextView
+             android:layout_marginTop="20sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Iphone 11 Pro Max"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <TextView
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Price : 140000 Tk"
+             android:textStyle="bold"
+             android:textSize="20sp"
+             android:textColor="@android:color/black"
+             android:gravity="center"
+             />
+
+         <ImageView
+             android:id="@+id/addToCartBtn"
+             android:layout_marginTop="10sp"
+             android:layout_width="match_parent"
+             android:layout_height="250dp"
+             android:src="@drawable/addtocart2"
+             />
+
+     </LinearLayout>
+
+     </ScrollView>-->
+
+
+
+
+
+
+
+</LinearLayout>
